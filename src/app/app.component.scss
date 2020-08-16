@@ -1,0 +1,44 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+  *{
+      background-color: black;
+  }
+  body{
+    background-color: black;
+    color: white;
+  }
+  a{
+    margin: auto 10px auto auto;
+    text-decoration: none;
+    color: whitesmoke;
+  }
+  img{
+      height: 600px;
+      width: 50%;
+      float: right;
+  }
+  h1{
+      color: white;
+      text-align: center;
+  }
+  .landing{
+
+    padding: 30px;
+    width: 50%;
+    height: 600px;
+  }
+  .landing h1{
+    font-size: 5em;
+  }
+  .landing p{
+      text-align: center;
+      width: 800px;
+      padding: 200px 0 80px 0;
+  }
+  .landing button{
+    display: block;
+    margin: auto 30%;
+    padding: 7px;
+    width: 200px;
+  }
